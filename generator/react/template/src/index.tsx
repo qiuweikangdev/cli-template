@@ -5,5 +5,5 @@ ReactDOM.render(
   <React.StrictMode>
     <div>react-template</div>
   </React.StrictMode>,
-  document.getElementById("root")
+  document.getElementById("app")
 );

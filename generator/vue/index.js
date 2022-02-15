@@ -8,16 +8,16 @@ module.exports = async (generator) => {
       build: "q-cli run build"
     },
     dependencies: {
-      react: "^17.0.2",
-      "react-dom": "^17.0.2"
+      vue: "^3.2.25"
     },
     devDependencies: {
-      "@types/react": "^17.0.39",
-      "@types/react-dom": "^17.0.11",
-      "@babel/preset-react": "^7.16.7",
-      "@babel/preset-typescript": "^7.16.7",
       typescript: "^4.5.5",
+      "vue-loader": "^17.0.0",
+      "css-loader": "^6.6.0",
+      "style-loader": "^3.3.1",
       "ts-loader": "^9.2.6",
+      "file-loader": "^6.2.0",
+      "url-loader": "^4.1.1",
       webpack: "^5.68.0"
     }
   });

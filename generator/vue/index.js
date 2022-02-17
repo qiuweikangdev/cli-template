@@ -9,9 +9,6 @@ module.exports = async (generator) => {
         },
         dependencies: {
             vue: "^3.2.25"
-        },
-        devDependencies: {
-            "q-tool-cli": "^0.1.2"
         }
     });
 };

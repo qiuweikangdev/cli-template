@@ -10,9 +10,6 @@ module.exports = async (generator) => {
         dependencies: {
             react: "^17.0.2",
             "react-dom": "^17.0.2"
-        },
-        devDependencies: {
-            "q-tool-cli": "^0.1.2"
         }
     });
 };

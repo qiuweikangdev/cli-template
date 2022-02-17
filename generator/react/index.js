@@ -12,11 +12,7 @@ module.exports = async (generator) => {
             "react-dom": "^17.0.2"
         },
         devDependencies: {
-            "@types/react": "^17.0.39",
-            "@types/react-dom": "^17.0.11",
-            typescript: "^4.5.5",
-            "ts-loader": "^9.2.6",
-            webpack: "^5.68.0"
+            "q-tool-cli": "^0.1.2"
         }
     });
 };

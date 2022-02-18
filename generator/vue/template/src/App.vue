@@ -6,8 +6,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Hello Vue 3 + TypeScript + q-cli" />
+    <img alt="Vue logo" src="@/assets/logo.png" />
+      <HelloWorld msg="Hello Vue 3 + TypeScript + q-tool-cli" />
   </div>
 </template>
 

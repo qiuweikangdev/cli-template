@@ -10,7 +10,7 @@ const count = ref(0)
  <div>
       <h1>{{ msg }}</h1>
   <p>
-   <a href="https://github.com/qiuweikangdev/q-cli" target="_blank">q-cli</a>
+   <a href="https://github.com/qiuweikangdev/q-tool-cli" target="_blank">q-tool-cli</a>
     |
     <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Docs</a>
   </p>
